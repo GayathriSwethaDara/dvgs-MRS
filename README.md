@@ -9,7 +9,7 @@ I have developed a Movie Recommendation System! Here, I curate finest movies for
 **Register page** consits of Name, Email, Password, Repeat Password and Contact No.
 **Login Page** consists of Username and Password with authentication.
 **Home Page** consists of Navbar (Search, Logout, Username) with routing, About website with contact and Footer.
-**Search Page** consists of search box to search for a movie by title
+**Search Page** consists of search box to search for a movie by title, when clicked on movie poster it shows movie details like name, rating, actors, descrption etc. You can add it to your watchlist by click bookmark button and can remove it from watchlist by clicking dustbin button.
 
 ## How to run the project?
 1. Clone or download this repository to your local machine.
@@ -26,4 +26,6 @@ I have developed a Movie Recommendation System! Here, I curate finest movies for
 2. Provide the necessary details in the form, such as your name, email address, and the purpose for which you want to access the API. Select if you want to use the API for business or personal purposes. Then click submit.
 3. Your API key will be sent to you via email by OMDb API. Add the API key at the end of the API endpoint URL in order to utilize it.
 4. We should replace the link with the search "s" parameter as we are searching movies by title.
+
+## Live Demo
 
