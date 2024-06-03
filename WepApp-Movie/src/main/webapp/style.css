@@ -109,8 +109,8 @@ body {
 
 /* Movie Container */
 .movie-container {
-    width: 50%;
-    background-color: white;
+    width: 60%;
+    background-color:#ECF0F1 ;
     padding: 20px;
     margin: 0px auto;
     display: flex;
@@ -120,7 +120,7 @@ body {
 }
 
 .movie-poster {
-    width: 50%;
+    width: 60%;
 }
 
 .movie-poster img {
@@ -183,7 +183,7 @@ body {
     margin: 0px 5px 25px 5px;
     width: 28%;
     padding: 10px;
-    background-color: white;
+    background-color:#ECF0F1  ;
     border-radius: 4px;
 }
 
