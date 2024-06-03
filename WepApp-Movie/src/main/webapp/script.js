@@ -1,12 +1,9 @@
-//API Key - 48aa722f
-//Example - http://www.omdbapi.com/?i=tt3896198&apikey=48aa722f
-
-const key = '48aa722f';
+const key = 'a366c19a';
 
 var searchInput = document.getElementById('Input');
 var displaySearchList = document.getElementsByClassName('fav-container');
 
-fetch('http://www.omdbapi.com/?i=tt3896198&apikey=48aa722f')
+fetch('http://www.omdbapi.com/?i=tt3896198&apikey=a366c19a')
     .then(res => res.json())
     .then(data => console.log(data));
 
@@ -45,11 +42,13 @@ async function singleMovie() {
         <ul class="details-ul">
             <li><strong>Actors: </strong>${data.Actors}</li>
             <li><strong>Director: </strong>${data.Director}</li>
+            <li><strong>Writers: </strong>${data.Writer}</li>
         </ul>
         <ul class="details-ul">
             <li><strong>Genre: </strong>${data.Genre}</li>
             <li><strong>Release Date: </strong>${data.DVD}</li>
             <li><strong>Movie Runtime: </strong>${data.Runtime}</li>
+            <li><strong>Box Office: </strong>${data.BoxOffice}</li>
         </ul>
         <p style="font-size: 14px; margin-top:10px;">${data.Plot}</p>
     </div> 
