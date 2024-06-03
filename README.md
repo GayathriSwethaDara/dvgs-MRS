@@ -27,5 +27,5 @@ I have developed a Movie Recommendation System! Here, I curate finest movies for
 3. Your API key will be sent to you via email by OMDb API. Add the API key at the end of the API endpoint URL in order to utilize it.
 4. We should replace the link with the search "s" parameter as we are searching movies by title.
 
-## Live Demo
+## Demo
 
