@@ -28,5 +28,7 @@ I have developed a Movie Recommendation System! Here, I curate finest movies for
 4. We should replace the link with the search "s" parameter as we are searching movies by title.
 
 ## Demo
-https://github.com/GayathriSwethaDara/dvgs-MRS/assets/117058818/4d006023-6b6d-4fc8-9a4d-4eb5659bc8ef
+https://github.com/GayathriSwethaDara/dvgs-MRS/assets/117058818/030f7241-f230-4791-a495-8394f00a106c
+
+
 
