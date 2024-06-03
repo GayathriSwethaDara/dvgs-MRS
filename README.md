@@ -3,7 +3,7 @@ Movie Recommendation System
 
 ![image](https://github.com/GayathriSwethaDara/dvgs-MRS/assets/117058818/14cbd912-f964-4103-8d10-a61da2ebd138)
 
-I have developed a Movie Recommendation System! Here, I curate finest movies for users to explore using **OMDB API**. Additionally, users have the opportunity to create their own personalized playlists featuring their favorite films. These playlists are publiclly accessable.
+I have developed a Movie Recommendation System! Here, I curate finest movies for users to explore using **OMDb API**. Additionally, users have the opportunity to create their own personalized playlists featuring their favorite films. These playlists are publiclly accessable.
 
 ## Features of project
 **Register page** consits of Name, Email, Password, Repeat Password and Contact No.
