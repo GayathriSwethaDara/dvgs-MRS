@@ -25,7 +25,6 @@ I have developed a Movie Recommendation System! Here, I curate finest movies for
 1. Navigate to http://www.omdbapi.com/, the OMDb API website, and select the "API Key" option from the top menu.
 2. Provide the necessary details in the form, such as your name, email address, and the purpose for which you want to access the API. Select if you want to use the API for business or personal purposes. Then click submit.
 3. Your API key will be sent to you via email by OMDb API. Add the API key at the end of the API endpoint URL in order to utilize it.
-4. We should replace the link with the search "s" parameter as we are searching movies by title.
 
 ## Demo
 https://github.com/GayathriSwethaDara/dvgs-MRS/assets/117058818/030f7241-f230-4791-a495-8394f00a106c
